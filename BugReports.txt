@@ -1,0 +1,8 @@
+BugID:Title:
+Steps to Reproduce a Bug:
+Expected Result:
+Actual Result:
+Visual Proof of Bug:
+Bug Severity:
+Bug Priority:
+Attachments:
